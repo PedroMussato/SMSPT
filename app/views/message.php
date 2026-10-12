@@ -1,0 +1,3 @@
+<h1><?= e($title) ?></h1>
+<p><?= e($text) ?></p>
+<p><a href="/">Back to students</a></p>
